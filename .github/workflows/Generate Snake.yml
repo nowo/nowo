@@ -1,28 +1,24 @@
 name: generate animation
 
+# 控制工作流何时运行
 on:
 
-  # run automatically every 24 hours
+  # # run automatically every 24 hours
+  # schedule:
 
-  schedule:
-
-    - cron: "0 */24 * * *" 
-
-  
+  #   - cron: "0 */24 * * *" 
 
   # allows to manually run the job at any time
-
   workflow_dispatch:
 
   
 
   # run on every push on the master branch
-
   push:
 
     branches:
 
-    - master
+    - master-00
 
     
 
