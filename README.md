@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-
+A rookie front-end developer💻😊
 
 
 <!-- <picture>
@@ -9,11 +9,16 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/nowo/nowo/output/github-contribution-grid-snake.svg" />
 </picture>  -->
 
-<div style="min-height:400px;">
+<div style="min-height:200px;">
 
+<!-- 
 ![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=nowo&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowo&layout=compact&count_private=true)
+-->
+
+<img align="top" src="https://github-stats.ubrong.com/api?username=nowo&show_icons=true&theme=vue" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowo&layout=compact&count_private=true&theme=vue" />
 
 </div>
 
